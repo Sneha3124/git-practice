@@ -1,4 +1,4 @@
-"I am learning Git and GitHub on the feature branch"
+"I am learning Git and GitHub"
 
 ## Login Feature
 
